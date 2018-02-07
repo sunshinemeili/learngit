@@ -6,3 +6,4 @@ Creating a new branch is quick AND simple.
 this is readme dev branch.
 I am fixing a bug,please waiting for me.
 I have finished the bug.
+I am another user changing dev branch
